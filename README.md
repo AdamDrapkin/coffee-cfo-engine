@@ -266,6 +266,10 @@ Not verified: the desktop app loading `AGENTS.md` and accepting pasted images, s
 
 `AGENTS.md` and `core/` are the CFO's rules, generated from `raw/assets/cfo-master-prompt.md` by `scripts/split_master.py`. `scripts/` is the toolchain (validator, ledger writer, digest, worker). `tests/` holds the pytest suite with synthetic fixtures. Run tests with `python -m pytest tests`.
 
+## Disclaimer and terms
+
+This is a decision aid, not financial, accounting, tax, legal or investment advice. The AI it uses can be wrong, and you must verify every figure before acting. It is provided as is, with no warranty, and the author's liability is limited. Paid versions sold on Gumroad are final sale (no refunds). Commercial users are solely responsible for their use and indemnify the author. Read `TERMS.md` for the full terms.
+
 ## License note
 
 This project is released under the **PolyForm Noncommercial License 1.0.0** (full text in `LICENSE`).
