@@ -1,0 +1,22 @@
+.env
+.agy-work/
+__pycache__/
+*.lock
+.obsidian/workspace*.json
+.DS_Store
+.venv/
+.pytest_cache/
+.coffee-work/
+
+# screenshots stay in iCloud only; their text is kept in raw/ocr/
+raw/screenshots/
+inbox/*.png
+inbox/*.PNG
+inbox/*.jpg
+inbox/*.JPG
+inbox/*.jpeg
+inbox/*.heic
+inbox/*.HEIC
+inbox/*.mov
+inbox/*.MOV
+inbox/*.mp4

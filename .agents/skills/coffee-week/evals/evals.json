@@ -1,0 +1,9 @@
+{
+  "skill_name": "coffee-week",
+  "evals": [
+    {"id": 1, "prompt": "It is a new week. I uploaded 30 screenshots to the inbox.", "expected_output": "Runs `sh scripts/run.sh week --expect 30` first, does not open inbox images, gives a full 300 to 500 word analysis (the call, what happened with comparisons, why, do first, runner-up, do not, weak spots, unverified, send next) using ANALYSIS INPUTS numbers, ends with the SESSION HEALTH sentence.", "files": []},
+    {"id": 2, "prompt": "I put a video and 12 screens in the inbox, what should I do about cash?", "expected_output": "Runs week once, reviews only NEEDS EYES screens through their text dumps, files fixes in parts of 40 or fewer, reruns week until clean.", "files": []},
+    {"id": 3, "prompt": "The packet says READERS DISAGREE on a net income. Fix it.", "expected_output": "Opens only that image region, files an amend with a reason, reruns week, invents no number.", "files": []},
+    {"id": 4, "prompt": "Why did you pick Location B over Location A? (no new files)", "expected_output": "Answers from the ledger in plain words without running week or filing anything.", "files": []}
+  ]
+}
