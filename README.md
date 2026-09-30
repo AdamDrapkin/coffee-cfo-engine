@@ -8,6 +8,9 @@ You play Coffee Inc. 2+ (Apple Arcade). You paste a screenshot into a chat and s
 
 This project ran for 14 in-game weeks and was closed by choice after two days of building, because maintaining the machine had become more work than playing the game. It is left in a working, tested state: 129 automated tests pass, lint is clean, and the last commit matches the last week filed. Nothing here is abandoned half-way except the items listed under "Known limits" below.
 
+## What this kit is, and is not
+Everything in this kit is built on a business simulator (Coffee Inc. 2+). It is a complete working system and a learning tool. It is not a ready-made tool for a real business. With a Commercial License you may use it as a framework: give it to your own team and your own AI and adapt it to your business. Nothing in it is specific to any real industry.
+
 ## In depth: what this became
 
 The short description above is the original idea. What was actually built is a small data system that splits a business-analysis job into three parts, each done by whatever does it best.
