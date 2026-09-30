@@ -266,6 +266,16 @@ Not verified: the desktop app loading `AGENTS.md` and accepting pasted images, s
 
 `AGENTS.md` and `core/` are the CFO's rules, generated from `raw/assets/cfo-master-prompt.md` by `scripts/split_master.py`. `scripts/` is the toolchain (validator, ledger writer, digest, worker). `tests/` holds the pytest suite with synthetic fixtures. Run tests with `python -m pytest tests`.
 
+## License note
+
+This project is released under the **PolyForm Noncommercial License 1.0.0** (full text in `LICENSE`).
+
+- **Free:** personal use, hobby play, study, research and any other noncommercial use. You may modify it for yourself.
+- **Not allowed without a separate license:** selling it or anything built from it, offering it as a paid service, or using it inside a business.
+- **Keep the notice:** anyone you share a copy with must get the license text and the `Required Notice:` line.
+- **Unofficial fan project.** Not affiliated with, endorsed by or sponsored by Side Labs, Apple, Google or Obsidian. It contains no game assets or screenshots. Game and product names are trademarks of their owners and are used only to say what the tool works with.
+- **No warranty.** It is provided as is; you are responsible for what you run, and for your own Google account terms when using Antigravity.
+
 ## License
 
 PolyForm Noncommercial 1.0.0 (see `LICENSE`): free for personal, hobby, study and other noncommercial use. Commercial use needs a separate license. Required Notice: Copyright 2026 AdamDrapkin (github.com/AdamDrapkin).
