@@ -268,7 +268,7 @@ Not verified: the desktop app loading `AGENTS.md` and accepting pasted images, s
 
 ## Disclaimer and terms
 
-This is a decision aid, not financial, accounting, tax, legal or investment advice. The AI it uses can be wrong, and you must verify every figure before acting. It is provided as is, with no warranty, and the author's liability is limited. Paid versions sold on Gumroad are final sale (no refunds). Commercial users are solely responsible for their use and indemnify the author. Read `TERMS.md` for the full terms.
+This is a decision aid, not financial, accounting, tax, legal or investment advice. The AI it uses can be wrong, and you must verify every figure before acting. It is provided as is, with no warranty, and Synteo LLC's liability is limited. Paid versions sold on Gumroad are final sale (no refunds). Commercial users are solely responsible for their use and indemnify Synteo LLC. Read `TERMS.md` for the full terms.
 
 ## License note
 
@@ -276,11 +276,11 @@ This project is released under the **PolyForm Noncommercial License 1.0.0** (ful
 
 - **Free:** personal use, hobby play, study, research and any other noncommercial use. You may modify it for yourself.
 - **Not allowed without a separate license:** selling it or anything built from it, offering it as a paid service, or using it inside a business.
-- **Commercial license:** a separate Commercial License (use in your own business or for your own clients, no resale) is sold by the author alongside the paid Personal Kit.
+- **Commercial license:** a separate Commercial License (use in your own business or for your own clients, no resale) is sold by Synteo LLC alongside the paid Personal Kit.
 - **Keep the notice:** anyone you share a copy with must get the license text and the `Required Notice:` line.
 - **Unofficial fan project.** Not affiliated with, endorsed by or sponsored by Side Labs, Apple, Google or Obsidian. It contains no game assets or screenshots. Game and product names are trademarks of their owners and are used only to say what the tool works with.
 - **No warranty.** It is provided as is; you are responsible for what you run, and for your own Google account terms when using Antigravity.
 
 ## License
 
-PolyForm Noncommercial 1.0.0 (see `LICENSE`): free for personal, hobby, study and other noncommercial use. Commercial use needs a separate license. Required Notice: Copyright 2026 AdamDrapkin (github.com/AdamDrapkin).
+PolyForm Noncommercial 1.0.0 (see `LICENSE`): free for personal, hobby, study and other noncommercial use. Commercial use needs a separate license. Required Notice: Copyright 2026 Synteo LLC.

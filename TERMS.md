@@ -1,6 +1,6 @@
 # Terms, disclaimers and risk notice (read before you use the kit)
 
-**Plain summary:** This is a software kit sold as is. It is not financial, accounting, tax, legal or investment advice. It uses an AI that can be wrong. You are responsible for what you do with it. All sales are final. The seller's liability is limited as described below.
+**Seller:** Synteo LLC ("Synteo", "the seller"). **Plain summary:** This is a software kit sold as is. It is not financial, accounting, tax, legal or investment advice. It uses an AI that can be wrong. You are responsible for what you do with it. All sales are final. The seller's liability is limited as described below.
 
 This document applies to every version of Panda CFO Kit (Personal Kit and Commercial License) and is part of your license. By downloading or using the kit you agree to it. If you do not agree, do not use the kit.
 
@@ -31,7 +31,7 @@ If you use the kit in a business or for clients:
 The kit is an unofficial fan project for the simulator example. It is not affiliated with, endorsed or sponsored by Side Labs, Apple, Google or Obsidian. Names are trademarks of their owners and are used only to say what the kit works with. You are responsible for following the terms of the game and of any service you use.
 
 ## 8. General
-- **Governing law.** The laws of the State of Pennsylvania, United States, apply, without regard to conflict-of-law rules, except where mandatory local law says otherwise.
+- **Governing law.** The laws of the state in which Synteo LLC is organized, and the federal laws of the United States that apply there, govern these terms, without regard to conflict-of-law rules, except where mandatory local law says otherwise.
 - **Severability.** If a part of these terms is unenforceable, the rest stays in effect.
 - **Entire agreement.** These terms, the license (LICENSE, plus COMMERCIAL-LICENSE.txt if you bought it) and the Gumroad listing are the whole agreement and replace any earlier understanding.
 - **Changes.** Terms for a version you already bought do not change.
